@@ -1,0 +1,29 @@
+#intro {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+body {
+    background-color: blanchedalmond;
+}
+#heading {
+    font-family: Times;
+    color: whitesmoke;
+}
+#btn1 {
+    font-size: larger;
+    color: aliceblue;
+}
+#btn2 {
+    font-size: larger;
+    margin-left: 60px;
+    color: aliceblue;
+}
+#btn3 {
+    font-size: larger;
+    margin-left: 60px;
+    color: aliceblue;
+}
+nav {
+    background-color: darksalmon;
+    padding-top: 20px;
+}
