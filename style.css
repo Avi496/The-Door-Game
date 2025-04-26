@@ -11,17 +11,20 @@ body {
 }
 #btn1 {
     font-size: larger;
-    color: aliceblue;
+    color: whitesmoke;
+    background-color: royalblue;
 }
 #btn2 {
     font-size: larger;
     margin-left: 60px;
-    color: aliceblue;
+    color: whitesmoke;
+    background-color: royalblue;
 }
 #btn3 {
     font-size: larger;
     margin-left: 60px;
-    color: aliceblue;
+    color: whitesmoke;
+    background-color: royalblue;
 }
 nav {
     background-color: darksalmon;
